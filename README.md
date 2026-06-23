@@ -4,6 +4,8 @@
 
 Quickly set the resolution, refresh rate, scale, VRR, & HDR through a minimal terminal based menu designed to just work.  
 
+*This repo is a part of the Cawnsole collection; Improving the HTPC experience.*
+
 [![Patreon](./Assets/Patreon.svg)](https://patreon.com/ProCrow?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)
 
 <img src="./Assets/hero.png" width="350"/>
