@@ -1,5 +1,7 @@
 # Cawnsole Simple Display Shell
 
+<img src="./Assets/icon.png" width="75"/>
+
 Quickly set the resolution, refresh rate, scale, VRR, & HDR through a minimal terminal based menu designed to just work.  
 
 [![Patreon](./Assets/Patreon.svg)](https://patreon.com/ProCrow?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)
@@ -13,7 +15,7 @@ Quickly set the resolution, refresh rate, scale, VRR, & HDR through a minimal te
 | dialog |
 | kscreen-doctor |
 
-**NOTE:** Simple Display Shell does not enable new features or display parameters, simple display control only exposes existing parameters.
+**NOTE:** Simple Display Shell does not enable new features or display parameters, simple display shell only exposes existing parameters.
 
 ## Installation & Use
 ### Installation Steps
