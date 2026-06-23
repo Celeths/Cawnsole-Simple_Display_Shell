@@ -68,7 +68,7 @@ After the selected change is confirmed or cancelled, the script will automatical
 
 #### Display Scaling
 
-**Scaling Sizes For Selected Output*
+**Scaling Sizes For Selected Output**
 
 <img src="./Assets/scale.png" width="450"/>
 
@@ -92,6 +92,6 @@ After the selected change is confirmed or cancelled, the script will automatical
 
 #### Confirm Changes
 
-**Confirm Changes Timeout Failsafe*
+**Confirm Changes Timeout Failsafe**
 
 <img src="./Assets/confirm.png" width="450"/>
