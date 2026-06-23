@@ -54,7 +54,7 @@ After the selected change is confirmed or cancelled, the script will automatical
 
 <img src="./Assets/parameters.png" width="450"/>
 
-<img src="./Assets/alt.png" width="450"/>
+<img src="./Assets/alt-parameters.png" width="450"/>
 
 *(only detected parameters are shown)*
 
