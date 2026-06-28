@@ -14,8 +14,11 @@ Quickly set the resolution, refresh rate, scale, VRR, & HDR through a minimal te
 
 | Dependencies |
 | --- |
-| dialog |
-| kscreen-doctor |
+
+| Standard Version | Compatibility Version |
+| --- | --- |
+| dialog | whiptail |
+| kscreen-doctor | Kscreen-doctor |
 
 **NOTE:** Simple Display Shell does not enable new features or display parameters, simple display shell only exposes existing parameters.
 
@@ -37,6 +40,12 @@ After making a change, there will be a ten second confirmation window to confirm
 After the selected change is confirmed or cancelled, the script will automatically close. To make another change, run the script again.
 
 *The script will timeout and close after 60 seconds if no inputs are made.*
+
+##### Compatibility Version
+
+There is a compatibility version (Simpler-Display-Shell.sh) that utilizes the more common "whiptail" prerequisite for TUI. This is for systems that lack dialog or cannot install it. 
+
+The compatibility version functions the EXACT same as the regular Simple-Display-Shell.sh but lacks some quality of life features of the dialog version such as mouse input & failsafe timeouts.
 
 <hr>
 
